@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1707329836 source:f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\banque\main.cpp
+	<iostream>
+	<string>
+	"compte.h"
+	"compte.cpp"
+
+1707329354 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\banque\compte.h
+	<string>
+
+1707329689 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\banque\compte.cpp
+	"compte.h"
+	<iostream>
+

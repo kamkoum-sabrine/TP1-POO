@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1707396154 source:f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\exercice3\main.cpp
+	<iostream>
+	"verre.h"
+	"Bouteille.h"
+	"Bouteille.cpp"
+	"verre.cpp"
+
+1707331505 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\exercice3\verre.h
+
+1707331741 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\exercice3\bouteille.h
+
+1707331722 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\exercice3\bouteille.cpp
+	"Bouteille.h"
+
+1707396283 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\exercice3\verre.cpp
+	"verre.h"
+

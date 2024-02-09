@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707394402 source:f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\note\main.cpp
+	<iostream>
+	"notes.h"
+	"notes.cpp"
+
+1707327533 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\note\notes.h
+
+1707394381 f:\1ere ingénieur informatique\semestre 2\tp poo\tp1\note\notes.cpp
+	"notes.h"
+
